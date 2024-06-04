@@ -11,15 +11,18 @@ In this python project, we will build a grocery store management application. It
 Download mysql for windows: https://dev.mysql.com/downloads/installer/
 
 `pip install mysql-connector-python`
-Run the following command to create a virtual environment (replace 'python3' with 'py -3' if you’re on Windows):
+
+Run the following command to create a virtual environment (replace `python3` with `py -3` if you’re on Windows):
 Activate the virtual environment:
 On Windows:
-'.venv\Scripts\activate'
-## Install Flask:
+`.venv\Scripts\activate`
+Install Flask:
 While the virtual environment is active, use the following command to install Flask:
-'pip install Flask'
-# Verify Installation:
+
+`pip install Flask`
+Verify Installation:
 You can check if Flask is installed by running
+
 'flask --version'
 
 ### Exercise 
