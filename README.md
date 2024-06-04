@@ -22,8 +22,7 @@ While the virtual environment is active, use the following command to install Fl
 `pip install Flask`
 Verify Installation:
 You can check if Flask is installed by running
-
-'flask --version'
+`flask --version`
 
 ### Exercise 
 
