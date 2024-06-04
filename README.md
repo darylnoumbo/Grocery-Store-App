@@ -11,6 +11,7 @@ In this python project, we will build a grocery store management application. It
 Download mysql for windows: https://dev.mysql.com/downloads/installer/
 
 `pip install mysql-connector-python`
+'
 
 ### Exercise 
 
@@ -22,5 +23,5 @@ The grocery management system that we built is functional but after we give it t
 5. **Orders Module**: In the grid where orders are listed, add a view button in the last column. On clicking this button it should show you order details where individual items in that order are listed along with their price/quantity etc.
 
 "# Grocery-Store-App" 
-"# Grocery-Store-App" 
-"# Grocery-Store-App" 
+"# Grocery-Store-web" 
+"# Grocery-application" 
